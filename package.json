@@ -1,0 +1,25 @@
+{
+  "name": "inlamning-pack",
+  "version": "1.0.0",
+  "description": "Inlämningsuppgift för kursen \"testverktyg\" 2025",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craeng1337/Ersus.git"
+  },
+  "author": "Susanna Wiland och Erik Molander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craeng1337/Ersus/issues"
+  },
+  "homepage": "https://github.com/craeng1337/Ersus#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
